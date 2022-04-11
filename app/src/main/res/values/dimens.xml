@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_job_schedule_normal">8dp</dimen>
+    <dimen name="height_job_schedule_for_switches">48dp</dimen>
+</resources>

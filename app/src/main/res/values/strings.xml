@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="alarm_toggle_button_name_on">On</string>
+    <string name="alarm_toggle_button_name_off">Off</string>
+    <string name="alarm_toast_when_button_off">Stand Up Alarm Off!</string>
+    <string name="alarm_notification_text">You should stand up and walk around now!</string>
+    <string name="alarm_notification_title">Stand Up Alert</string>
+    <string name="alarm_toast_when_button_on">Stand Up Alarm On!</string>
+    <string name="main_button_notification_name">Notification</string>
+    <string name="maim_button_alarm_name">The alarm manager</string>
+    <string name="main_button_job_scheduler_name">Job scheduler</string>
+    <string name="job_scheduler_textview_title_text">Network type required:</string>
+    <string name="job_scheduler_radio_button_none_text">None</string>
+    <string name="job_scheduler_radio_button_any_text">Any</string>
+    <string name="job_scheduler_radio_button_wifi_text">Wifi</string>
+    <string name="job_scheduler_button_schedule_name">Schedule</string>
+    <string name="job_scheduler_button_cancel_name">Cancel</string>
+    <string name="job_scheduler_textview_requires_title">Requires:</string>
+    <string name="job_scheduler_switch_text_idle">Device Idle</string>
+    <string name="job_scheduler_switch_text_charging">Device Charging</string>
+    <string name="job_scheduler_textview_deadline">Override Deadline:</string>
+    <string name="job_scheduler_textview_time">Not Set</string>
+    <string name="job_scheduler_toast_text_when_constrains_are_met">Job Scheduled, job will run when the constraints are met.</string>
+    <string name="job_scheduler_toast_text_when_constrain_not_met">Please set at least one constraint</string>
+    <string name="job_scheduler_toast_text_when_canceled">Jobs cancelled</string>
+    <string name="job_scheduler_notification_title">Job Service</string>
+    <string name="job_scheduler_notification_text">Your Job is running!</string>
+    <string name="notification_button_create_name">Create</string>
+    <string name="notification_button_update_name">Update</string>
+    <string name="notification_button_cancel_name">Cancel</string>
+    <string name="notification_action_title">Update notification</string>
+    <string name="notification_small_notification_title">Coffee market</string>
+    <string name="notification_notification_content_text">Do you want try coffee</string>
+    <string name="notification_big_notification_title">So delicious</string>
+    <string name="notification_notification_channel_name">Main Channel notification</string>
+    <string name="notification_notification_channel_description">Transaction notification</string>
+</resources>
